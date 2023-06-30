@@ -1,0 +1,10 @@
+c = input('Digite algo: ')
+print('O tipo primitivo desse valor é ', type(c))
+
+print('Esse valor tem letras e números? ', c.isalnum())
+print('Esse valor tem só números? ', c.isnumeric())
+print('Esse valor tem só letras? ', c.isalpha())
+print('Se for só letras, estão todas em minúsculo? ', c.islower())
+print('Se for só letras, estão todas em maiúsculo? ', c.isupper())
+print('Se for só letras, está capitalizada? ', c.istitle())
+print('Esse valor tem só espaços? ', c.isspace())

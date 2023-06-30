@@ -1,0 +1,5 @@
+al = input('Nome do aluno: ')
+nm = float(input('Nota de Matemática: '))
+np = float(input('Nota de Português: '))
+nc = float(input('Nota de Ciências: '))
+print('A média de {} contando com 3 matérias é de {:.1  f}'.format(al, (nm + np + nc) / 3))
