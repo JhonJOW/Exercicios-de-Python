@@ -1,4 +1,4 @@
-# Exercícios de Python
- Exercícios que fiz no meu curso de Python do curso em vídeo.
+# Python exercices
+ The exercises I did in my Python course from Curso em Vídeo.
 
-Agradecimentos ao Gustavo Guanabara!
+Thanks to Gustavo Guanabara!
