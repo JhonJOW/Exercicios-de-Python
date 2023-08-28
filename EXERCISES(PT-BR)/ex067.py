@@ -1,5 +1,3 @@
-num2 = num1 = 1
-
 while True:
     print(38*'-')
     num1 = int(input('Want to see the table of which number: '))
