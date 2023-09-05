@@ -15,4 +15,4 @@ while gam_Ask.upper() in 'YES':
     else:
         print(' Game over.')
         break
-print(f'You won {gam_Win} games.')
+print(f'You won {gam_Win} consecutive games.')
