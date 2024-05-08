@@ -1,7 +1,6 @@
 number_List = []
 for x in range(5):
-    number_Ask = int(input(f'Type a number for position {x + 1}: '))
-    number_List.append(number_Ask)
+    number_List.append(int(input(f'Type a number for position {x + 1}: ')))
 print(f'You typed: {number_List}')
 if number_List.count(max(number_List)) == 5:
     print('All the position has the same value.')
